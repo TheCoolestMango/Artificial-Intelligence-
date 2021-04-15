@@ -18,7 +18,7 @@ Before running the test function please make sure, that *cv2* and *numpy* are in
   
     pip install numpy
 ________________________________________________
-## 2) Instructions on how to use the test function:
+## 2) Instructions:
 
 * Upload the input image to the same folder as the algorithm. 
 (File format should preferably be .jpg or .png)
