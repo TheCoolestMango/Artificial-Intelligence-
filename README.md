@@ -29,11 +29,9 @@ ________________________________________________
 
 ```Input: pic.jpg```
 
-   *OR*
-    
-```Input: C:\Users\Mango\Pictures\pic.jpg```
 
 * If the input image is not in the same folder, then input the entire file path to the input image
+```Input: C:\Users\Mango\Pictures\pic.jpg```
 
 * For the duration of the execution the code will print which generation it has currently done. Every 100th generation it will save an image to the same folder for you to see the progress. The name of those images will display the number of generation and the fitness of the image.
 _________________________________________________
