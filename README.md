@@ -1,6 +1,6 @@
 # Genetic Algorithm
 
-This implementation of Genetic Algorithm recreates the input image using circles as chromosomes. It resizes the image for optimization
+This implementation of Genetic Algorithm recreates the input image using circles as chromosomes. It resizes the image for optimization. See examples of the algorithm's output images below.
 
 ___________
 # Examples
