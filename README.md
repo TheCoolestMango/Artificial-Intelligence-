@@ -25,9 +25,9 @@ ________________________________________________
 
 * Run the code
 
-* Input the file name in user input with the extention without any additional characters (for example:
+* Input the file name in user input with the extention without any additional characters:
 
-```Input: head.jpg```
+```Input: pic.jpg```
     *OR*
 ```Input: C:\Users\Mango\Pictures\pic.jpg```
 
