@@ -5,8 +5,9 @@ This implementation of Genetic Algorithm recreates the input image using circles
 ___________
 # Examples
 
---------|-----------|---------|--------
-![wave_result](/examples/wave_result.png) | ![pixel_result](/examples/pixel_result.png) | ![catty_result](/examples/catty_result.png) | ![sunset_result](/examples/sunset_result.png)
+|        |        |        |        |
+|--------|--------|--------|--------|
+| ![wave_result](/examples/wave_result.png) | ![pixel_result](/examples/pixel_result.png) | ![catty_result](/examples/catty_result.png) | ![sunset_result](/examples/sunset_result.png) |
 __________________________
 ## 1) Pre-running the code
 
