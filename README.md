@@ -1,1 +1,30 @@
-# Artificial-Intelligence-
+# Genetic Algorithm
+
+This implementation of Genetic Algorithm recreates the input image using circles as chromosomes. It resizes the image for optimization
+__________________________
+## 1) Pre-running the code
+
+The algorithm is written Python language using several external libraries.
+Before running the test function please make sure, that *cv2* and *numpy* are installed, otherwise use pip in terminal or cmd to install them.
+
+  pip install opencv-python
+  pip install numpy
+________________________________________________
+## 2) Instructions on how to use the test function:
+
+* Upload the input image to the same folder as the algorithm. 
+(File format should preferably be .jpg or .png)
+
+* Run the code
+
+* Input the file name in user input with the extention without any additional characters (for example: 
+  Input: *head.jpg*
+
+* If the input image is not in the same folder, then input the entire file path to the input image
+
+* For the duration of the execution the code will print which generation it has currently done. Every 100th generation it will save an image to the same folder for you to see the progress. The name of those images will display the number of generation and the fitness of the image.
+_________________________________________________
+
+# Examples
+
+See the resulting images
