@@ -1,6 +1,12 @@
 # Genetic Algorithm
 
 This implementation of Genetic Algorithm recreates the input image using circles as chromosomes. It resizes the image for optimization
+
+___________
+# Examples
+
+See the resulting images
+![wave_result](/examples/wave_result.png)
 __________________________
 ## 1) Pre-running the code
 
@@ -26,6 +32,3 @@ ________________________________________________
 * For the duration of the execution the code will print which generation it has currently done. Every 100th generation it will save an image to the same folder for you to see the progress. The name of those images will display the number of generation and the fitness of the image.
 _________________________________________________
 
-# Examples
-
-See the resulting images
