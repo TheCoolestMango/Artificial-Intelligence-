@@ -28,6 +28,7 @@ ________________________________________________
 * Input the file name in user input with the extention without any additional characters (for example:
 
 ```Input: head.jpg```
+    *OR*
 ```Input: C:\Users\Mango\Pictures\pic.jpg```
 
 * If the input image is not in the same folder, then input the entire file path to the input image
