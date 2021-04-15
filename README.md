@@ -7,8 +7,9 @@ __________________________
 The algorithm is written Python language using several external libraries.
 Before running the test function please make sure, that *cv2* and *numpy* are installed, otherwise use pip in terminal or cmd to install them.
 
-  pip install opencv-python
-  pip install numpy
+    pip install opencv-python
+  
+    pip install numpy
 ________________________________________________
 ## 2) Instructions on how to use the test function:
 
